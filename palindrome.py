@@ -1,0 +1,9 @@
+s="racecar"
+low=0
+high=len(s)-1
+while(low<=high):
+    if(s[low]!=s[high]):
+        print("False")
+    low=low+1
+    high=high-1
+print("True")

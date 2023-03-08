@@ -1,8 +1,8 @@
 ##  python projects 
 
-** project 1 **
+**project 1**
 
-* desc of the project *
+*desc of the project*
 
 - imports 
 - venv
